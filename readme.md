@@ -3,14 +3,17 @@
 
 Hello, my name is Brendon Hwang. 
 
-I am a junior data analyst and junior data engineer. Currently attending James Madison University, majoring in Computer Information Systems. 
+I am a junior data analyst and junior data engineer currently pursuing my degree in Computer Information Systems at James Madison University.
 
-Growing up, I was always messing around with Legos. I loved the way you could build all kinds of different things with them. To me, working with data is kind of like that - you start with all these raw pieces and then you clean and organize them, connecting them to create something cool. Sometimes these projects even lead to finding solutions or making better decisions. I'm passionate about analyzing data and I'm excited to use my skills in a professional setting. 
+As a kid, I was always immersed in the world of Legos, fascinated by the ability to construct diverse creations from raw pieces. Similarly, my work with data mirrors that process — starting with raw data, cleaning and organizing it, and connecting the pieces to craft meaningful insights. Projects in this realm often lead to innovative solutions and improved decision-making, fueling my passion for data analysis. 
 
-If you'd like to see an example of my work, please feel free to check out my project on the National Response Center and Video Game Sales and Rating. I'd be happy to discuss the details with you and answer any questions you may have.
+I invite you to explore my projects on the National Response Center and Video Game Sales and Rating. These examples showcase my hands-on experience and practical application of my skills.
 
-Qualified in the following areas: 
-Proficiency in SQL, Data Validation, Advanced Excel, Data visualization using Tableau, Python, Data Quality and Governance, ETL process, Root Cause Analysis and Problem Solving, Data Mining, working independently and in Team Structures, Excellent Verbal and Written Communication Skills 
+Key Qualifications: 
+* Proficiency in SQL, Advanced Excel, Python, and Tableau
+* Expertise in Data Cleaning, Data Manipulation, Data Structure, Data Analytics, Data Reporting
+
+Feel free to reach out if you have any questions or would like to discuss the details of my work further.
 
 📫 How to reach me **Brendon.R.Hwang@gmail.com**
 
