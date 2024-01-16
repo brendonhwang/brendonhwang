@@ -7,9 +7,7 @@ I am a junior data analyst and junior data engineer currently pursuing my degree
 
 As a kid, I was always immersed in the world of Legos, fascinated by the ability to construct diverse creations from raw pieces. Similarly, my work with data mirrors that process — starting with raw data, cleaning and organizing it, and connecting the pieces to craft meaningful insights. Projects in this realm often lead to innovative solutions and improved decision-making, fueling my passion for data analysis. 
 
-I invite you to explore my projects on the National Response Center and Video Game Sales and Rating. These examples showcase my hands-on experience and practical application of my skills.
-
-Key Qualifications: 
+I invite you to explore my projects on the National Response Center and Video Game Sales and Rating. These examples showcase my hands-on experience and practical application of my skills.  Key Qualifications: 
 * Proficiency in SQL, Advanced Excel, Python, and Tableau
 * Expertise in Data Cleaning, Data Manipulation, Data Structure, Data Analytics, Data Reporting
 
