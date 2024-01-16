@@ -7,7 +7,7 @@ I am a junior data analyst and junior data engineer. Currently attending James M
 
 Growing up, I was always messing around with Legos. I loved the way you could build all kinds of different things with them. To me, working with data is kind of like that - you start with all these raw pieces and then you clean and organize them, connecting them to create something cool. Sometimes these projects even lead to finding solutions or making better decisions. I'm passionate about analyzing data and I'm excited to use my skills in a professional setting. 
 
-If you'd like to see an example of my work, please feel free to check out my project on the National Response Center, which can be found further down on my LinkedIn profile. I'd be happy to discuss the details with you and answer any questions you may have.
+If you'd like to see an example of my work, please feel free to check out my project on the National Response Center and Video Game Sales and Rating. I'd be happy to discuss the details with you and answer any questions you may have.
 
 Qualified in the following areas: 
 Proficiency in SQL, Data Validation, Advanced Excel, Data visualization using Tableau, Python, Data Quality and Governance, ETL process, Root Cause Analysis and Problem Solving, Data Mining, working independently and in Team Structures, Excellent Verbal and Written Communication Skills 
