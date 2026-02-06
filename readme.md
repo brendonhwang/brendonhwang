@@ -1,5 +1,5 @@
 
-<h4 align="left">Highly Motivated Junior Data Analyst || Junior Data Engineer || SQL, Excel, Tableau, Python || Computer Information System Majoring @James Madison University</h4>
+<h4 align="left">Highly Motivated Junior Data Analyst || Junior Data Engineer || SQL, Excel, Power BI, Tableau, Python || Computer Information System Majoring @James Madison University</h4>
 
 Hello, my name is Brendon Hwang. 
 
